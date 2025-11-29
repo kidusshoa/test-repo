@@ -3,5 +3,3 @@ const master = (x) => {
 }
 master("master repo change");
 
-
-console.log("lela techemari");
