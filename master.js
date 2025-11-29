@@ -1,1 +1,7 @@
-console.log("this should be error .......");
+const master = (x) => {
+   console.log(x);
+}
+master("master repo change");
+
+
+console.log("lela techemari");
